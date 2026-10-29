@@ -125,6 +125,7 @@ In practice, the 2025–2026 wave of developer tooling has mostly leaned the oth
 - [ArtifactsBench](https://arxiv.org/abs/2507.04952) - Benchmark of 1,825 tasks for generating visual, interactive artifacts (web apps, SVG, games), scored by an MLLM judge from rendered screenshots (Tencent Hunyuan, 2025).
 - [Interaction2Code](https://arxiv.org/abs/2411.03292) - Benchmark for generating interactive webpages from interactive prototypes rather than static designs (ASE 2025).
 - [WebDev Arena](https://arena.ai/leaderboard/webdev) - LMArena. Crowd-voted leaderboard where models build web apps side by side.
+- [hype or code](https://hypeorcode.com/c/cargo-bike-landing/) - Unscored gallery that gives every new OpenRouter model the same landing page, HTML wristwatch and SVG prompts, one shot each, shown side by side with time and cost.
 - [WebArena](https://github.com/web-arena-x/webarena) - Realistic web environment and benchmark for agents interacting with live websites.
 - [VisualWebArena](https://github.com/web-arena-x/visualwebarena) - Vision-grounded WebArena variant for UI understanding and interaction.
 - [Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - Dataset and benchmark for generalist web agents grounded in real webpages.
